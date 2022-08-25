@@ -1,2 +1,2 @@
 # git215_setup
-Module 1 Homework Assignment
+## Author: Stephanie Lopez
